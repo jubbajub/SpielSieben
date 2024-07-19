@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/sieben-game/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
